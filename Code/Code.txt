@@ -1,1 +1,0 @@
-Code Written in STM32CubeIDE in C Language
